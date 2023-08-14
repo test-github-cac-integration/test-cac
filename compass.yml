@@ -19,9 +19,6 @@ customFields:
   - name: test user
     type: user
     value: null
-  - name: test text
-    type: text
-    value: "asd"
   - name: multi select test
     type: multi_select
     value:
