@@ -19,6 +19,14 @@ customFields:
   - name: test user
     type: user
     value: null
+  - name: multi select test
+    type: multi_select
+    value:
+      - "dc6866dd-0448-431e-ac18-d455acdf1767"
+      - "e95b3075-7cc1-4750-82e7-634be518e979"
+  - name: single select test
+    type: single_select
+    value: "38ba5451-2fd5-4f19-a803-6c9be7d54558"
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
