@@ -1,0 +1,31 @@
+name: github-cac-demo
+id: 'ari:cloud:compass:a1812048-30ea-4d5c-a661-244da521dac1:component/f219859a-66aa-4c3e-8e0d-151f4f01d86d/5c16192b-31a2-4770-93e2-5c6da23cc86e'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links: []
+relationships: {}
+labels: null
+customFields:
+  - name: test bool
+    type: boolean
+    value: false
+  - name: test text
+    type: text
+    value: null
+  - name: test user
+    type: user
+    value: null
+  - name: multi select test
+    type: multi_select
+    value:
+    - "dc6866dd-0448-431e-ac18-d455acdf1767"
+  - name: single select test
+    type: single_select
+    value: "749531d7-ef81-4c9f-8f4e-e365dee011e3"
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
